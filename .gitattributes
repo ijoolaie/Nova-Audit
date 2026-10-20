@@ -1,0 +1,2 @@
+# Preserve the exact protected Worker bytes; line-ending conversion invalidates SHA-256 verification.
+worker.js -text
